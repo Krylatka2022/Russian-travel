@@ -1,0 +1,11 @@
+.lead {
+  width: 984px;
+  height: 1005px;
+  margin-top: 136px;
+  margin-left: 148px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
