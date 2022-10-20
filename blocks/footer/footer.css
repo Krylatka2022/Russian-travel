@@ -1,0 +1,7 @@
+.footer {
+    margin: auto 48px 24px;
+    display: inline-grid;
+    width: 1184px;
+    height: 18px;
+    grid-template-columns: 50px 57px 94px 86px 106px 186px;
+}
