@@ -4,6 +4,10 @@
   line-height: 76px;
   text-align: center;
   max-width: 560px;
+<<<<<<< HEAD
+=======
+  /* margin: 245px 360px 32px;*/
+>>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
   margin: 0 0 16px;
 }
 
@@ -12,9 +16,15 @@
     font-size: 32px;
     line-height: 35px;
     margin: 0 0 8px;
+<<<<<<< HEAD
     max-width: 288px;
   }
 }
 
 
 /*подсказонька*/
+=======
+    max-width: 88px;
+  }
+}
+>>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9

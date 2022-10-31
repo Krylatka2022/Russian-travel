@@ -5,6 +5,10 @@
   text-align: center;
   max-width: 360px;
   margin: 16px 0 0;
+<<<<<<< HEAD
+=======
+  /* margin: 0 412px 245px;*/
+>>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
 }
 
 @media screen and (max-width: 984px) {
@@ -12,7 +16,10 @@
     max-width: 50%;
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
 @media screen and (max-width: 568px) {
   .cover__subtitle {
     max-width: none;
@@ -21,5 +28,8 @@
     margin: 8px 0 0;
   }
 }
+<<<<<<< HEAD
 
 /*подсказонька*/
+=======
+>>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
