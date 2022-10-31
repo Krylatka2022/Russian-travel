@@ -4,9 +4,26 @@
   font-size: 30px;
   line-height: 36px;
   color: #ffffff;
-  width: 640px;
-  height: 72px;
+  max-width: 640px;
+  max-height: 72px;
   left: 320px;
   top: 368px;
   text-align: center;
+  margin: 0 auto 64px;
+}
+
+@media screen and (max-width: 1124px) {
+  .lead__subtitle {
+    margin: 0 auto 56px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .lead__subtitle {
+    margin: 0 auto 40px;
+    max-width: 288px;
+    max-height: 40px;
+    font-size: 16px;
+    line-height: 20px;
+  }
 }

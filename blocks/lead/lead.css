@@ -1,11 +1,40 @@
 .lead {
-  width: 984px;
-  height: 1005px;
-  margin-top: 136px;
+  max-width: 984px;
+  max-height: 1005px;
+  margin-top: 56px;
   margin-left: 148px;
+  margin-right: 148px;
   display: flex;
-  justify-content: center;
-  flex-direction: row;
   flex-wrap: wrap;
   align-content: flex-start;
+}
+
+@media screen and (max-width: 1124px) {
+  .lead {
+    margin-top: 48px;
+    margin-left: 48px;
+    margin-right: 48px;
+    max-height: 962px;
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .lead {
+    margin-top: 48px;
+    margin-left: 0;
+    margin-right: 0;
+    max-height: 862px;
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .lead {
+    margin-top: 48px;
+    margin-left: 0;
+    margin-right: 0;
+    max-height: 406px;
+    max-width: 320px;
+  }
 }

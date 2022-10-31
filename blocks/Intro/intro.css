@@ -1,8 +1,32 @@
 .intro {
-    width: 690px;
-    height: 429px;
+    max-width: 690px;
+    min-height: 429px;
     display: flex;
     margin-left: 148px;
     flex-direction: column;
     justify-content: space-around;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 1124px) {
+    .intro {
+        margin-left: 48px;
+
+    }
+}
+
+@media screen and (max-width: 984px) {
+    .intro {
+        max-width: 720px;
+        min-height: 429px;
+        margin-left: 24px;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .intro {
+        max-width: 288px;
+        max-height: 754px;
+        margin-left: 16px;
+    }
 }

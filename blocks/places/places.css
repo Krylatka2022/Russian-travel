@@ -1,9 +1,32 @@
 .places {
-    color: #ffffff;
-    display: grid;
-    grid-template-rows: 660px 584px 584px 660px 584px;
+    /*display: grid;
+    /*grid-template-rows: 660px 584px 584px 660px 584px;*/
     row-gap: 80px;
-    margin: 0 148px 0;
-    max-height: 3392px;
+    margin: 0 148px;
     max-width: 984px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1124px) {
+    .places {
+        margin: 0 48px;
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 984px) {
+    .places {
+        margin: 0 24px;
+        row-gap: 73px;
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .places {
+        margin: 0 0;
+        row-gap: 50px;
+        max-width: 320px;
+    }
 }
