@@ -1,20 +1,9 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-<<<<<<< HEAD
 
 /*header*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
-=======
-@import url(../blocks/header/header.css);
-@import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/page/page.css);
-@import url(../blocks/page/__content/page__content.css);
-@import url(../blocks/content/content.css);
-@import url(../blocks/content/__section/content__section.css);
-@import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__shapka/header__shapka.css);
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_underline/header__lang-link_underline.css);
@@ -34,14 +23,8 @@
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-<<<<<<< HEAD
 
 /*intro*/
-=======
-@import url(../images/lead-polka.jpg);
-@import url(../blocks/header/__main-illustration/header__main-illustration.css);
-@import url(../blocks/header/__caption/header__caption.css);
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
 @import url(../blocks/Intro/intro.css);
 @import url(../blocks/Intro/__title/intro__title.css);
 @import url(../blocks/Intro/__text/intro__text.css);
@@ -68,10 +51,6 @@
 
 /*cover*/
 @import url(../blocks/cover/cover.css);
-<<<<<<< HEAD
-=======
-@import url(../images/cover-trains.jpg);
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
 @import url(../blocks/cover/__item/cover__item.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);

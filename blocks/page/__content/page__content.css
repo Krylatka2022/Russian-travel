@@ -1,29 +1,17 @@
 .page__content {
-<<<<<<< HEAD
   margin-top: 56px;
-=======
-  margin-top: 53px;
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
   margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1124px) {
   .page__content {
-<<<<<<< HEAD
     margin-top: 48px;
-=======
-    margin-top: 45px;
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
   }
 }
 
 @media screen and (max-width: 984px) {
   .page__content {
-<<<<<<< HEAD
     margin-bottom: 86px;
-=======
-    margin-top: 88px;
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
   }
 }
 
@@ -33,8 +21,5 @@
     margin-bottom: 64px;
   }
 }
-<<<<<<< HEAD
 
 /*подсказоньки*/
-=======
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9

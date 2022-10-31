@@ -1,8 +1,5 @@
 .page {
-<<<<<<< HEAD
   font-family: inter, Arial, Helvetica, sans-serif;
-=======
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
   max-width: 1280px;
   background-color: #2a2c2f;
   color: #ffffff;
@@ -12,9 +9,4 @@
   flex-direction: column;
   margin: 0 auto;
   font-weight: 400;
-<<<<<<< HEAD
 }
-=======
-  padding: 28px 0 24px;
-}
->>>>>>> 6c30cd0d9e8564a118483bc452087ea4b622e6b9
