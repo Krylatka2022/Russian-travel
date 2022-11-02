@@ -3,3 +3,10 @@
 }
 
 /*подсказонька*/
+
+
+@media screen and (max-width: 350px) {
+  .cover {
+    max-height: 406px;
+  }
+}

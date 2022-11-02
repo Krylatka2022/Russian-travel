@@ -1,39 +1,16 @@
 .lead__image {
   max-width: 984px;
-  max-height: 615px;
   object-fit: cover;
 }
 
 @media screen and (max-width: 1124px) {
   .lead__image {
     max-width: 928px;
-    max-height: 580px;
   }
 }
 
 @media screen and (max-width: 984px) {
   .lead__image {
-    max-width: 768px;
-    max-height: 480px;
-  }
-}
-
-@media screen and (max-width: 730px) {
-  .lead__image {
-    max-width: 725px;
-  }
-}
-
-
-@media screen and (max-width: 568px) {
-  .lead__image {
-    max-width: 100%;
-  }
-}
-
-@media screen and (max-width: 362px) {
-  .lead__image {
-    max-width: 320px;
-    max-height: 200px;
+    width: 100%
   }
 }
