@@ -5,7 +5,6 @@
     gap: 18px;
     display: flex;
     align-items: center;
-    max-height: 52px;
 }
 
 
@@ -13,6 +12,5 @@
     .header__links {
         font-size: 18px;
         line-height: 20px;
-        max-height: 42px;
     }
 }

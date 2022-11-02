@@ -21,19 +21,26 @@
 
 @media screen and (max-width: 984px) {
   .lead {
-    margin-top: 48px;
     margin-left: 0;
     margin-right: 0;
-    max-height: 862px;
     max-width: 768px;
   }
 }
 
 @media screen and (max-width: 568px) {
   .lead {
-    margin-top: 48px;
-    margin-left: 0;
-    margin-right: 0;
+    max-width: 506px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .lead {
+    max-width: 446px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .lead {
     max-height: 406px;
     max-width: 320px;
   }

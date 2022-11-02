@@ -9,10 +9,6 @@
 }
 
 .place__link:hover {
-    font-size: 18px;
-    line-height: 22px;
-    font-weight: 400;
     transition: 0.4s;
-    color: #ffffff;
     opacity: 1;
 }

@@ -3,7 +3,6 @@
   font-weight: 400;
   font-size: 30px;
   line-height: 36px;
-  color: #ffffff;
   max-width: 640px;
   max-height: 72px;
   left: 320px;
@@ -15,14 +14,25 @@
 @media screen and (max-width: 1124px) {
   .lead__subtitle {
     margin: 0 auto 56px;
+    font-size: 25px;
+    line-height: 30px;
+    max-width: 400px;
+
   }
 }
 
-@media screen and (max-width: 568px) {
+
+@media screen and (max-width: 730px) {
+  .lead__subtitle {
+    max-width: 300px;
+    margin: 0 auto 52px;
+  }
+}
+
+@media screen and (max-width: 362px) {
   .lead__subtitle {
     margin: 0 auto 40px;
     max-width: 288px;
-    max-height: 40px;
     font-size: 16px;
     line-height: 20px;
   }

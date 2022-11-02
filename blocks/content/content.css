@@ -9,7 +9,21 @@
   }
 }
 
+@media screen and (max-width: 868px) {
+  .content {
+    grid-row-gap: 70px;
+  }
+}
+
+
 @media screen and (max-width: 568px) {
+  .content {
+    grid-row-gap: 68px;
+  }
+}
+
+
+@media screen and (max-width: 430px) {
   .content {
     grid-row-gap: 64px;
   }

@@ -1,17 +1,14 @@
 .places {
-    /*display: grid;
-    /*grid-template-rows: 660px 584px 584px 660px 584px;*/
     row-gap: 80px;
     margin: 0 148px;
-    max-width: 984px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 @media screen and (max-width: 1124px) {
     .places {
         margin: 0 48px;
-        max-width: 928px;
     }
 }
 
@@ -19,7 +16,6 @@
     .places {
         margin: 0 24px;
         row-gap: 73px;
-        max-width: 720px;
     }
 }
 
@@ -27,6 +23,5 @@
     .places {
         margin: 0 0;
         row-gap: 50px;
-        max-width: 320px;
     }
 }

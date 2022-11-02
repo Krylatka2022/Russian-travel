@@ -17,7 +17,6 @@
 
 @media screen and (max-width: 568px) {
   .page__content {
-    margin-top: 48px;
     margin-bottom: 64px;
   }
 }

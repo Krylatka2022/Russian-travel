@@ -15,9 +15,6 @@
     .photo-grid {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(4, 1fr);
-        justify-content: center;
-        max-width: 928px;
-        margin: 0 48px;
         max-height: 942px;
     }
 }
@@ -26,8 +23,6 @@
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
-        margin: 0 24px;
-        max-width: 720px;
         max-height: 1664px;
     }
 }
@@ -36,9 +31,6 @@
     .photo-grid {
         grid-template-rows: repeat(12, 1fr);
         grid-template-columns: none;
-        justify-content: flex-start;
-        margin: 0 16px;
         min-height: 2724px;
-        max-width: 288px;
     }
 }
