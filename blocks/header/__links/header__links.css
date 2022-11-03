@@ -5,6 +5,9 @@
     gap: 18px;
     display: flex;
     align-items: center;
+    list-style-type: none;
+    margin: 0;
+
 }
 
 

@@ -5,8 +5,21 @@
     text-align: right;
     margin: 0;
     width: 100%;
-    min-width: 200px;
+    min-width: 186px;
 }
+
+@media screen and (max-width: 1124px) {
+    .footer__copyright {
+        padding-right: 24px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .footer__copyright {
+        padding-right: 0;
+    }
+}
+
 
 @media screen and (max-width: 568px) {
     .footer__copyright {
@@ -14,5 +27,6 @@
         text-align: start;
         margin-top: 16px;
         padding-bottom: 24px;
+        padding-right: 0;
     }
 }

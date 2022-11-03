@@ -1,22 +1,14 @@
 .place__website {
     margin-top: 0;
-    max-width: 456px;
-    max-height: 46px;
+
     display: flex;
     flex-direction: column;
     align-self: end;
     gap: 12px;
 }
 
-@media screen and (max-width: 984px) {
-    .place__website {
-        max-width: 352px;
-    }
-}
-
 @media screen and (max-width: 568px) {
     .place__website {
-        max-width: 288px;
         margin: 0 16px;
     }
 }

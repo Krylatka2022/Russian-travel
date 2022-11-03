@@ -1,5 +1,6 @@
 .page__content {
   margin: 56px 0 92px;
+  justify-items: stretch;
 
 }
 

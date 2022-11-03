@@ -1,4 +1,3 @@
 .header__lang-link {
-    display: flex;
-    width: 30px;
+    margin: 0;
 }
