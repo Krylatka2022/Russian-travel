@@ -8,4 +8,4 @@
 Использовались такие инструменты как __Grid layot__ и **Flex**.
 Тексты написаны бесплатным шрифтом _”Inter“_
 
-* [Ссылка на проект github pages] (https://krylatka2022.github.io/russian-travel/)
+* [Ссылка на проект github pages](https://krylatka2022.github.io/russian-travel/)
