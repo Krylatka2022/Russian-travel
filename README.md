@@ -11,4 +11,4 @@
 Структура проекта выполнена согласно  *Nested БЭМ*.
 
 Тексты написаны бесплатным шрифтом _”Inter“_
-* [Ссылка на проект github pages](https://krylatka2022.github.io/russian-travel/)
+* [Ссылка на готовый проект github pages](https://krylatka2022.github.io/russian-travel/)
