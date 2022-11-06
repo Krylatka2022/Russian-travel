@@ -9,7 +9,6 @@
     display: flex;
     box-sizing: border-box;
     justify-content: flex-start;
-
 }
 
 .footer__link:hover {
@@ -21,6 +20,5 @@
     .footer__link {
         font-size: 24px;
         line-height: 24px;
-
     }
 }
