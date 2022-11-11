@@ -49,10 +49,6 @@
   }
 }
 
-
-
 .cover__item:hover::before {
   opacity: 0.8;
 }
-
-/*подсказонька*/
