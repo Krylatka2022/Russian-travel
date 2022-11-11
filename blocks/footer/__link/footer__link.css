@@ -1,0 +1,26 @@
+.footer__link {
+  margin-right: 18px;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 112%;
+  text-align: left;
+  color: #ffffff;
+  text-decoration: none;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: flex-start;
+
+}
+
+.footer__link:hover {
+  transition: 0.4s;
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 695px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+
+  }
+}
