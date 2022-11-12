@@ -1,0 +1,19 @@
+.header__links {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  gap: 18px;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 6px 0;
+
+}
+
+
+@media screen and (max-width: 568px) {
+  .header__links {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
