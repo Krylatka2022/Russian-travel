@@ -1,0 +1,33 @@
+.place__website {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-self: end;
+  gap: 12px;
+}
+
+/*@media screen and (max-width: 984px) {
+  .place__website:first-child {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 12px;
+    justify-content: end;
+  }
+}*/
+
+@media screen and (max-width: 984px) {
+  .place__website {
+    margin: 0;
+    gap: 12px;
+    /*display: block;*/
+    justify-content: end;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    padding: 0 16px;
+  }
+}
