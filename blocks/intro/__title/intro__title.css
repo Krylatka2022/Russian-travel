@@ -4,8 +4,6 @@
   font-size: 54px;
   line-height: 58px;
   margin: 0;
-  /*font-size: calc(32px + 22 * (100vw / 1280));
-  line-height: calc(35px + 23 * (100vw / 1280));*/
 }
 
 
@@ -14,7 +12,5 @@
     font-size: 32px;
     line-height: 35px;
     max-width: 288px;
-    /*font-size: calc(32px + (22 + 22 * 0.7) * ((100vw - 320px) / 1280));
-    line-height: calc(35px + (23 + 23*0.7) * ((100vw - 320px)/ 1280));*/
   }
 }
