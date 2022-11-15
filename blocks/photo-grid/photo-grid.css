@@ -1,15 +1,3 @@
-/*.photo-grid {
-  display: grid;
-  max-width: 100%;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  object-fit: cover;
-  justify-content: center;
-  gap: 16px;
-  justify-items: center;
-  margin: 0 auto;
-  padding: 0;
-}*/
-
 .photo-grid {
   display: grid;
   max-width: 1184px;
