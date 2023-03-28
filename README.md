@@ -1,4 +1,4 @@
-# Путешествие по России ([RUSSIAN-TRAVEL](https://krylatka2022.github.io/russian-travel/))
+# Путешествие по России ([Russian-travel](https://krylatka2022.github.io/Russian-travel/))
 
 *- это учебный проект по верстке (3-ий спринт обучения в Яндекс.Практикуме)*
 
@@ -23,7 +23,7 @@
 * результат проверен код-ревьюером. Замечания устранены.
 
 Тексты написаны бесплатным шрифтом _”Inter“_
-### [Ссылка на сайт](https://krylatka2022.github.io/russian-travel/)
+### [Ссылка на сайт](https://krylatka2022.github.io/Russian-travel/)
 
 
 
